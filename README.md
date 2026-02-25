@@ -13,4 +13,7 @@ A Data Science Associate with hands-on experience in Python, SQL, Power BI, Mach
 - NLP & Deep Learning Basics
 
 # Projects
--
+- Sales Data Analysis
+- Customer Segmentation
+- SQL Case Studies
+- Power BI Dashboards
